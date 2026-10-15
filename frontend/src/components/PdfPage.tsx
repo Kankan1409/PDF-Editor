@@ -1,0 +1,13 @@
+import {useEffect,useRef,useState} from 'react';
+import {getDocument,GlobalWorkerOptions, type PDFDocumentProxy} from 'pdfjs-dist';
+import worker from 'pdfjs-dist/build/pdf.worker.min.mjs?url';
+import type {PageInfo,TextLine} from '../types';
+import type {ReactNode} from 'react';
+GlobalWorkerOptions.workerSrc=worker;
+export function usePdf(bytes:Uint8Array|null){const [pdf,setPdf]=useState<PDFDocumentProxy|null>(null);const [error,setError]=useState('');useEffect(()=>{setPdf(null);setError('');if(!bytes)return;const task=getDocument({data:bytes.slice(),isEvalSupported:false});let active=true;task.promise.then(p=>{if(active)setPdf(p)}).catch(e=>{if(active)setError(String(e))});return()=>{active=false;void task.destroy()}},[bytes]);return {pdf,error}}
+export function PdfPage({pdf,page,scale=1,info,selected,onSelect,onEdit,disabled=false,query='',children}:{pdf:PDFDocumentProxy|null;page:number;scale?:number;info?:PageInfo;selected?:string;onSelect?:(line:TextLine)=>void;onEdit?:(line:TextLine)=>void;disabled?:boolean;query?:string;children?:ReactNode}){
+ const ref=useRef<HTMLCanvasElement>(null);const [error,setError]=useState('');
+ useEffect(()=>{const hit=ref.current?.parentElement?.querySelector('.text-hit.selected');hit?.scrollIntoView?.({block:'nearest',inline:'nearest'})},[selected,page]);
+ useEffect(()=>{if(!pdf||!ref.current)return;let cancelled=false;let task:ReturnType<Awaited<ReturnType<PDFDocumentProxy['getPage']>>['render']>|undefined;void pdf.getPage(page+1).then(p=>{if(cancelled||!ref.current)return;const canvas=ref.current;const viewport=p.getViewport({scale});const dpr=window.devicePixelRatio||1;canvas.width=Math.floor(viewport.width*dpr);canvas.height=Math.floor(viewport.height*dpr);canvas.style.width=viewport.width+'px';canvas.style.height=viewport.height+'px';task=p.render({canvas,viewport,transform:[dpr,0,0,dpr,0,0]});return task.promise}).catch(e=>{if(!cancelled)setError(String(e))});return()=>{cancelled=true;task?.cancel()}},[pdf,page,scale]);
+ return <div className="pdf-page" style={info?{width:info.width*scale,height:info.height*scale}:undefined}><canvas ref={ref}/>{error&&<span role="alert">{error}</span>}{info?.rotation===0&&onSelect&&info.lines.map(line=><button key={line.id} disabled={disabled} title={`${line.text} — ดับเบิลคลิกเพื่อแก้ไข`} aria-label={`เลือกข้อความ: ${line.text}`} onClick={()=>onSelect(line)} onDoubleClick={()=>onEdit?.(line)} onKeyDown={e=>{if(e.key==='Enter'||e.key==='F2'){e.preventDefault();onEdit?.(line)}}} className={`text-hit ${selected===line.id?'selected':''} ${query&&line.text.includes(query)?'match':''}`} style={{left:line.bbox[0]*scale,top:line.bbox[1]*scale,width:(line.bbox[2]-line.bbox[0])*scale,height:(line.bbox[3]-line.bbox[1])*scale}}/>) }{children}</div>
+}

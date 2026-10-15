@@ -1,0 +1,576 @@
+[
+  {
+    "file": "Sarabun-Bold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-Bold.ttf",
+    "git_blob": "7e5d768073a16576b75830c3c0c0011090b50a88",
+    "sha256": "d38308ca27d067b9a1b79006337c1f9a66c29aa016d96a9d88d3801da7fa83b9",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Sarabun-BoldItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-BoldItalic.ttf",
+    "git_blob": "8e78f9e7221a2ac19f39c278472312f9e6943154",
+    "sha256": "5ef1b930f9a3afed5ec83374b5617cad3a89d91a8fc5e372dc028c2aa2950f8d",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Sarabun-ExtraBold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-ExtraBold.ttf",
+    "git_blob": "61d6e8f15085d5008b83297c7b262541d1ed2c22",
+    "sha256": "1f4ba0daad63c802d825885341bd7f1f054306a669ea2b183f2b20ee65a0a043",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Sarabun-ExtraBoldItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-ExtraBoldItalic.ttf",
+    "git_blob": "3fb51c3734f365f1f61061b8a6bc28dbced9f3aa",
+    "sha256": "4b699f0ae018a58df04bd2a2a7c37d71c29c5359cb9df48abc70210ba2564ef9",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Sarabun-ExtraLight.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-ExtraLight.ttf",
+    "git_blob": "9dbda20b7164b575054e9fa09e543dac0d0d83fe",
+    "sha256": "8aa9fba8885554545c7bce3f1db5efd914c74c0ce8ae58e9e4cb477b5824fe9d",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Sarabun-ExtraLightItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-ExtraLightItalic.ttf",
+    "git_blob": "6bef8163e4363f0dfcad43a589dc33e671cd8083",
+    "sha256": "c2da92eae4674589bfb7ec04ecb5041c0bbe7768adf65fdddcfc1c9af3bbbb2f",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Sarabun-Italic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-Italic.ttf",
+    "git_blob": "c2147e28cd0322df7cbdf169a0442fbee422e546",
+    "sha256": "595a968e97a8b8179a6bde2d74d4f91b11475dcfb6cf270037d76d8ed71160ea",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Sarabun-Light.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-Light.ttf",
+    "git_blob": "f307021ff9544d8018480f95bb87108e45faf381",
+    "sha256": "9efd75e5ebb6d7755cca3faa5906c77a4bbd39c9aac0ed23bf7f4ba33b02f688",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Sarabun-LightItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-LightItalic.ttf",
+    "git_blob": "cf2b265ce042568b45623793e86f0b38565db72d",
+    "sha256": "50c12a64ff7fb67fa7ca525c2ed2def9660c97c3ca443acea622e35beee97c33",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Sarabun-Medium.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-Medium.ttf",
+    "git_blob": "baa59c922d9a4f1fa8dc74dec00983dc458b1cc0",
+    "sha256": "cc7c3016daab3321674fdf6e2ef59850dc0c07503de1cbdb8b90fe8080ada2b4",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Sarabun-MediumItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-MediumItalic.ttf",
+    "git_blob": "78150630154b20512b45856de595cb3527b179ef",
+    "sha256": "263e6bb51d80c228c201a0770e6100181115119fdca7968445d44d2fb94ab009",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Sarabun-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-Regular.ttf",
+    "git_blob": "161c9ac9a14e26dba0b9be14496fae451e5c2e24",
+    "sha256": "226d4f368fbc0457990ddef2692679badfd2c1a4e89e5ac4d43c10ba7743b2f1",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Sarabun-SemiBold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-SemiBold.ttf",
+    "git_blob": "c93c2b350f89134c23a61ca9d49e9da447d351fa",
+    "sha256": "c0bb057d86e4a12097d701ac0953597e315788d47a446f5b63a6604ab21dceba",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Sarabun-SemiBoldItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-SemiBoldItalic.ttf",
+    "git_blob": "f6212d403294e884075a523bbeb9c391570cae17",
+    "sha256": "982bd56d4683c60e7e4c9cd84bfafae7b700c4b514d9655b8810bb7478063e5c",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Sarabun-Thin.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-Thin.ttf",
+    "git_blob": "d3056e5fc96ebff8d43539dc42b41759fcfb0571",
+    "sha256": "fa55eab332e998acb4bb64c43d9bd1cef791d88d5d15d63570f43741688d7057",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Sarabun-ThinItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/sarabun/Sarabun-ThinItalic.ttf",
+    "git_blob": "46caa2e81da03270e9cb06fc3efbff41f13343af",
+    "sha256": "c520d004674d257f4e539926c04ec9b77cbab2239aaa2b468df9693a369bb884",
+    "license": "OFL-sarabun.txt"
+  },
+  {
+    "file": "Kanit-Black.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-Black.ttf",
+    "git_blob": "b44d7b4d99427c18e0b5cb8f2f6043395d02f921",
+    "sha256": "5d290c2cc9926764bd782aa6abc47a8f55bd64641d0afb56e115ee522698ee7e",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-BlackItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-BlackItalic.ttf",
+    "git_blob": "466eeb64c0a91bf19aa7b999bd5dca47a8429fd7",
+    "sha256": "7fe3f1d87e33e165eae2d664e42a31faf542d24e431a2e7da36f4e4eee5f8529",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-Bold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-Bold.ttf",
+    "git_blob": "fc9110692bd709c4a940156c90b900093ab47c65",
+    "sha256": "5dec5b080dab13de9d2295437c0ff3ec05c9e75587dfc31358c005eb4efa5e70",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-BoldItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-BoldItalic.ttf",
+    "git_blob": "9ce084eb75d072a005f39727bee85ad1c8278fcb",
+    "sha256": "194d26ba90b782465bd4653cc5a1cdf7a9bed7b9e271df4f6fb41b5dba359d78",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-ExtraBold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-ExtraBold.ttf",
+    "git_blob": "65f010ac8623d6983984f9eab39dfbde35b691f6",
+    "sha256": "70082870d1f5bb6ae9faa708572b2c36de3c076caae187edae753f709d0de984",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-ExtraBoldItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-ExtraBoldItalic.ttf",
+    "git_blob": "c56b0cd894382bc7efebbf5ff3bc2cf0082ba0bf",
+    "sha256": "e874a96de66b5340174ddf9c621593280a21e9adb8e07bb1587112de274acad5",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-ExtraLight.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-ExtraLight.ttf",
+    "git_blob": "057b6d2cb8cf863f19082558e4aa4db821d9658d",
+    "sha256": "f90e440b41170f2f75f2930d3273dbe9ed7a5ac49f7dbdc375ba5f8d2e224745",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-ExtraLightItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-ExtraLightItalic.ttf",
+    "git_blob": "f3476bbc79a98cc61d365f47f18e8ca93b1c14b2",
+    "sha256": "e62305565471f6ef1139581e2afbcd0b108fc2a8b140052cd06ec2852aad9cf9",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-Italic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-Italic.ttf",
+    "git_blob": "4871300fe702998f78428c8c081c7a02988f9bbb",
+    "sha256": "7cbe69393a7bf948dd49e575369344a907f06b0182e7a618c033c67208abb27d",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-Light.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-Light.ttf",
+    "git_blob": "7b4b83f0342600d97a20feb25d6b88a9dfd847d0",
+    "sha256": "7c04b0be6011782fcc4c032f4033ef6f6ba1fef99b135ba1ee68b800c53017ec",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-LightItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-LightItalic.ttf",
+    "git_blob": "555645fa26f49ed58b94a99562f08d178e60bc27",
+    "sha256": "e5cd0a7ce9ce65b7be59287320d247b7627b0a437a6a3bd1174440ceed4af1c6",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-Medium.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-Medium.ttf",
+    "git_blob": "842e9a9e45ba45a47c4203cb892e5d23dc638459",
+    "sha256": "50a237034244026a7c63fe55e24e0b4298babe363cde043e032075b764c545a2",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-MediumItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-MediumItalic.ttf",
+    "git_blob": "66a0999e31435594553a558d5ca870bb9f2af66b",
+    "sha256": "266a8044e599ce2feef7dffa8e3ce7648c94927daba20c4838629054633cf8c4",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-Regular.ttf",
+    "git_blob": "e9bc0a2f5d0d1ad0df1fa20c44e381834c128c58",
+    "sha256": "27170c049660b2f962d3ed28441fd20f4c743503ca031fec9c2b4542d6c52736",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-SemiBold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-SemiBold.ttf",
+    "git_blob": "0c79ade5d4d64cd0a0408e34a9b1219f042ea9c5",
+    "sha256": "67e64baf1a7e6e076435518ff0e6bf25c4d74b98143cd1a2688db906c0abce11",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-SemiBoldItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-SemiBoldItalic.ttf",
+    "git_blob": "af756126abd2bf22b3701874cec63ff965d0e3ff",
+    "sha256": "df1f635f3022306a7f61ed03cdc1a90364f31e19454bd287cffe45f98ca805d0",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-Thin.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-Thin.ttf",
+    "git_blob": "52d5f7a3bfb225305d52f3ea25c7b5de1e8957be",
+    "sha256": "740d8a4d92ddae394d13a3caea845c048b6d62b58f9fb92ed4ac0118ed38c083",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Kanit-ThinItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/kanit/Kanit-ThinItalic.ttf",
+    "git_blob": "4664c9228cf74cc439601647baa8206f8b9b2182",
+    "sha256": "6f61a638ba025b495fbf23a05f96af31ae3e9ca710506da123e3d63abdcf7d40",
+    "license": "OFL-kanit.txt"
+  },
+  {
+    "file": "Prompt-Black.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-Black.ttf",
+    "git_blob": "624fe85bcb76e58adcd71a18ab8184b740964fe1",
+    "sha256": "4fbb63f90ce9ea4214461942b521b13f6d2f7194a67de848363d829c3fdf3e66",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-BlackItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-BlackItalic.ttf",
+    "git_blob": "49ebb1679b7dd61f6749fd36be74297b83e397bb",
+    "sha256": "b1b27215efa6a451c2a1549c5de4c96bb389cf89e86921b3ee488ddb6702e09a",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-Bold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-Bold.ttf",
+    "git_blob": "6cdd89b4511127b6d96fbfad26257f63bd5f7a4b",
+    "sha256": "02813ca4f93c1df27e271f10fef3db6e34e66751ae1f4a3ed82ae06cb20150ea",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-BoldItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-BoldItalic.ttf",
+    "git_blob": "a9effd7f2639f0089448fe0f536ae07d4f8036b2",
+    "sha256": "d1c26068cd1291d238c04a064e169ce867315aab256bf7bd12cbe0969bb36b3a",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-ExtraBold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-ExtraBold.ttf",
+    "git_blob": "ded930f2b6208bbc169d6e849adb69cb34e9ca01",
+    "sha256": "f19ebea740940d6c6eb080d5ede1c78e5e68bd5b1faa34efbac251bb84740100",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-ExtraBoldItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-ExtraBoldItalic.ttf",
+    "git_blob": "6c076ed28f28674e885d2c9939aa7594694e9860",
+    "sha256": "23560ab8e908c1041befa0ac6873fbaa710de6d0ae21bc60c5b2fdedd83eeb86",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-ExtraLight.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-ExtraLight.ttf",
+    "git_blob": "7f9467618ed910145bdfd2adfae416f2c618b308",
+    "sha256": "5492f48c746a6f725ad21a787bb49ec4e948dbed7a3fa1e357b0efc1eef8d881",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-ExtraLightItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-ExtraLightItalic.ttf",
+    "git_blob": "4ca72e3a2bb803d202ee38bca121de4b86a67cd5",
+    "sha256": "19236c1e38938799c326ceb78ad55712b6f13bccacdd0561292a8368803f03b1",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-Italic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-Italic.ttf",
+    "git_blob": "05457347a1c0c05e8fd7e154dfccea138f405647",
+    "sha256": "c1188176de49e376990dff829c1bc0d686b17df96dd465f9e9368ccb2f2883cd",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-Light.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-Light.ttf",
+    "git_blob": "0c5d1eb5c3d05588d9536156ebfd50f9031d4113",
+    "sha256": "79412cf5ef7f60d7f1dff4e178707b0bc662dd76608697a7a36b4769454f8b82",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-LightItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-LightItalic.ttf",
+    "git_blob": "8bb339a526f0d746f70fa8d43286c30977a90f40",
+    "sha256": "58a64e6d2d3a2e37f0f488f68995f458a5e2b6c15fa0b2cd07e5b38fb613f45f",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-Medium.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-Medium.ttf",
+    "git_blob": "adf72c9f63f02f0d2d456c902eb21d9b26e8b967",
+    "sha256": "6a42451be692eba473c639f4bcdc6c6d9160a3d632319a64287e3ed1fae15d6b",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-MediumItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-MediumItalic.ttf",
+    "git_blob": "7b87fdb6d9426ca70b0a6ed3340bd6a87734f203",
+    "sha256": "e2cf416eeb5cd1f2f57ddaab7b05b9dae81178aac8f43bf8a77263f5217a104c",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-Regular.ttf",
+    "git_blob": "2a736dbba7d0bcb384bc1866516574f96e3d4893",
+    "sha256": "dbd497803cec3caffbc6b7f599ca6fed8beea0ed7e0ad1e098130c5ebbc4fd42",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-SemiBold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-SemiBold.ttf",
+    "git_blob": "011a0507ab4e2ae83384acb0185d6593f3c35605",
+    "sha256": "3285c9e6a4ebc480a6476a1a26b44d6eb0f9874025fa96e42afd52172b7f02b9",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-SemiBoldItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-SemiBoldItalic.ttf",
+    "git_blob": "3bec3f7710a827cb37f653ff970ec063034e86b6",
+    "sha256": "f01838c433f60813dfbdcd7f2c935169011298f0d621c318ca8e352d776c8354",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-Thin.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-Thin.ttf",
+    "git_blob": "a3b80b4436ac34a1d56c6e7f6f30cab5b03bac10",
+    "sha256": "a389f077b15b3eae6681d4824ee04bc081dbe0ebdcc160ab65a3282171608b1e",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "Prompt-ThinItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/prompt/Prompt-ThinItalic.ttf",
+    "git_blob": "f64319a5c3af867b1a8b35440ae1e74f92876432",
+    "sha256": "5c3c28a7210430ff457279b4cb57d0d444d0d0b21d5465e556e6a068a9d8630b",
+    "license": "OFL-prompt.txt"
+  },
+  {
+    "file": "BaiJamjuree-Bold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/baijamjuree/BaiJamjuree-Bold.ttf",
+    "git_blob": "c080abfd0de8bd1fd344f72cc3f6cf50b625b2da",
+    "sha256": "74784411504a295a5255e736e0a8389892af2c8a14e914d3e194329b59279223",
+    "license": "OFL-baijamjuree.txt"
+  },
+  {
+    "file": "BaiJamjuree-BoldItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/baijamjuree/BaiJamjuree-BoldItalic.ttf",
+    "git_blob": "fb94ad0911ca06a3c8e94e28778ff00426ba2eb8",
+    "sha256": "afeefa87666738ec8689bb018dfc971a532c8fd9e8cba649d1be0176759d93c1",
+    "license": "OFL-baijamjuree.txt"
+  },
+  {
+    "file": "BaiJamjuree-ExtraLight.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/baijamjuree/BaiJamjuree-ExtraLight.ttf",
+    "git_blob": "117903130e22e4a711ee2357648a6e2a1f756c4a",
+    "sha256": "da49f9d1efd6f190ac444af02a25606c0cd38fc78d4fc1e459d8e0171b65af11",
+    "license": "OFL-baijamjuree.txt"
+  },
+  {
+    "file": "BaiJamjuree-ExtraLightItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/baijamjuree/BaiJamjuree-ExtraLightItalic.ttf",
+    "git_blob": "7b30b706a258486590923ff0bc4bd2c51beadc50",
+    "sha256": "4dfac6888704172ca10ee1986d6de89de820a29310b489282b879b69f0304128",
+    "license": "OFL-baijamjuree.txt"
+  },
+  {
+    "file": "BaiJamjuree-Italic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/baijamjuree/BaiJamjuree-Italic.ttf",
+    "git_blob": "01a5f42c374d4dc9d4d5e764e275697fb30e53e4",
+    "sha256": "96e5f86f49442f60fd72cfc7728fde740870cccd3b8bc8a30e75dd8d9fc4b3b4",
+    "license": "OFL-baijamjuree.txt"
+  },
+  {
+    "file": "BaiJamjuree-Light.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/baijamjuree/BaiJamjuree-Light.ttf",
+    "git_blob": "6c5344d7043448e47a06d45623396d5edce8d3d9",
+    "sha256": "8db41d9372b7425e7c717ba7bd3883965bada642412bccc0545102f9024d6acb",
+    "license": "OFL-baijamjuree.txt"
+  },
+  {
+    "file": "BaiJamjuree-LightItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/baijamjuree/BaiJamjuree-LightItalic.ttf",
+    "git_blob": "10ff37e1feb5f0cd0b207d1520d3b29a419ed2d3",
+    "sha256": "78e092d9c144538e575da8242888de255e02897eab0a86d75e4bc1e6b33d82fb",
+    "license": "OFL-baijamjuree.txt"
+  },
+  {
+    "file": "BaiJamjuree-Medium.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/baijamjuree/BaiJamjuree-Medium.ttf",
+    "git_blob": "34caa0f934ce01ff87b6dbabab77d3d61be84577",
+    "sha256": "95782f3c3e07866749fb28e1d1a356e383e8f2bdcc7b88d4e3a3fc546613137f",
+    "license": "OFL-baijamjuree.txt"
+  },
+  {
+    "file": "BaiJamjuree-MediumItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/baijamjuree/BaiJamjuree-MediumItalic.ttf",
+    "git_blob": "0ab3888e6669f55ceaad95d8ce07753c57f2de28",
+    "sha256": "f37dc3ccb6597e851e7c23fed94e6ab0df9668fb5c5d166360e81c00dd84b0bc",
+    "license": "OFL-baijamjuree.txt"
+  },
+  {
+    "file": "BaiJamjuree-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/baijamjuree/BaiJamjuree-Regular.ttf",
+    "git_blob": "679cfb42f02d92562a5bf9806063f51914999937",
+    "sha256": "72b5a30cb78966823eb326c09b9004b0d03b4bddcdfcfd1b8cdbffb6c414547d",
+    "license": "OFL-baijamjuree.txt"
+  },
+  {
+    "file": "BaiJamjuree-SemiBold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/baijamjuree/BaiJamjuree-SemiBold.ttf",
+    "git_blob": "0f1fe61a1ef427d1ecc6488d755c9f49c82cddd2",
+    "sha256": "daaa68bc721e893861f948f40542b9f1ea8496a3fe4250a0ffc86dab0aee8f3c",
+    "license": "OFL-baijamjuree.txt"
+  },
+  {
+    "file": "BaiJamjuree-SemiBoldItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/baijamjuree/BaiJamjuree-SemiBoldItalic.ttf",
+    "git_blob": "b2fe038e6cd857469606e9d9768c60d869fedca9",
+    "sha256": "cdc9cd3c2f168d1791871b72b5d62bfed7a5b87efec1bb0ba356f7fad6d623fd",
+    "license": "OFL-baijamjuree.txt"
+  },
+  {
+    "file": "Lato-Black.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-Black.ttf",
+    "git_blob": "53a31ac8f56e9e3f67d35844f2b41ef9ade0e156",
+    "sha256": "808c62839c62dbce7de689af7603666fc7f8b81e0df537d8a5212c87580d4337",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-BlackItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-BlackItalic.ttf",
+    "git_blob": "b3cee668d64c5ae179b7554f315df274055b6d28",
+    "sha256": "3214f75bf96783a571bd25338c867c669e7c5e7c08a227f18a7b63766d6e6cbe",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-Bold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-Bold.ttf",
+    "git_blob": "1d23c7066e095b5bff2c373d4064dc4f33659783",
+    "sha256": "8a0aace75d33794eece4b28187bfc1df0bbd2888b5d8a56e01788c8d65d16be1",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-BoldItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-BoldItalic.ttf",
+    "git_blob": "a3b8e33229be7db3b6cf59da16226b5c4d834373",
+    "sha256": "62c1b7f0d2e74b45960154c3520efc337b553db0961bfdc950d5618334596cc8",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-ExtraBold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-ExtraBold.ttf",
+    "git_blob": "8612461da3fd4a251a8ba3d76a5be1182b1136b9",
+    "sha256": "61018de62bdaf90d4ac80b1d53c5c130756c8e9219aea3d2773fc9bd5869af97",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-ExtraBoldItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-ExtraBoldItalic.ttf",
+    "git_blob": "516676f3f7ca16410e96006bcda789ee6ed1a2b9",
+    "sha256": "a42b384b9c37913a61023e3a47c07fead26e776127bbc9e6a0c96fe413089374",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-ExtraLight.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-ExtraLight.ttf",
+    "git_blob": "648e78c4dfa9cc52189eb952063f4f18474068d0",
+    "sha256": "989989b481db5df0827d90c51fd08d024fe7bc4e367046e2584a0d3b0487936d",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-ExtraLightItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-ExtraLightItalic.ttf",
+    "git_blob": "569692ad7050ed5ebf5f48f58e45df7c195ab08b",
+    "sha256": "fc56526250b9b64ce0908c52350b03e91b84afecb08fd2834a12e57b91abdb31",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-Italic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-Italic.ttf",
+    "git_blob": "70a870f40ad0be24f2409f3875c8126b55aa41aa",
+    "sha256": "e399c44efe1387100531d26c7e4800c5d12251b890d6654a3098c7c679cb1786",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-Light.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-Light.ttf",
+    "git_blob": "c3f3cb576ae699ad5906fc892f4da127ca2b1a1b",
+    "sha256": "cf2a774503baf418d584f49967bd160e1e03f087c13b25602f28024ec7788f08",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-LightItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-LightItalic.ttf",
+    "git_blob": "9368e065b7d05a90e8873c08baf0933308877232",
+    "sha256": "700e6722fd14a10e7646347a6b14c486d4c364a373ba61c70e0b5ccee7811635",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-Medium.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-Medium.ttf",
+    "git_blob": "0648fb2d7ce7c07af9776f37a5b404d2325ca820",
+    "sha256": "d3ac182a6833e005745dd75679fbad081c0b12535df4e93ad8ed57817a31a338",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-MediumItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-MediumItalic.ttf",
+    "git_blob": "af296abd8fa1a8ffe9e5e2e1b1f61732a0e02bff",
+    "sha256": "ecbce6cffa42d8a67afeb27a9d6e85d515e81481d4b2cece989e833a48048405",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-Regular.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-Regular.ttf",
+    "git_blob": "0f3d0f837d24834b9b5b0a6b735459c56f5e75c3",
+    "sha256": "d636e4683231f931eda222d588e944d082bfd3bdba02f928bee461c0f185b251",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-SemiBold.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-SemiBold.ttf",
+    "git_blob": "3b1bcccc3384aef84a68242e331e1018c8e141e0",
+    "sha256": "71b8b7decbe75a881ed267be539d402bd1e9420b799658aada4e0d1bd5af803c",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-SemiBoldItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-SemiBoldItalic.ttf",
+    "git_blob": "032b99d39509077f4cacb46cdee858698970f206",
+    "sha256": "5adeb6b334d8fb99ef053bc052b952773d544315e0e1d668a12c0ce8bd51375c",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-Thin.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-Thin.ttf",
+    "git_blob": "81167facd97925603fbb5670d4f2ab318818bda4",
+    "sha256": "663c55bfe9a38270fff44da273bf4d792eafc3e7e1201f62c3064cad80c5d5e7",
+    "license": "OFL-lato.txt"
+  },
+  {
+    "file": "Lato-ThinItalic.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/lato/Lato-ThinItalic.ttf",
+    "git_blob": "339d2dcc2e177aad522d05547a91437a6bef1965",
+    "sha256": "e5e86e219ce6987b175470d94d57753a387d1860b635da6327a60e8d19a33beb",
+    "license": "OFL-lato.txt"
+  }
+]

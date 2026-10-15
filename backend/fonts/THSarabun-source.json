@@ -1,0 +1,25 @@
+{
+  "source": "https://www.f0nt.com/?dl_name=sipafonts%2F07-TH-Sarabun-PSK.zip",
+  "files": [
+    {
+      "file": "THSarabun Bold.ttf",
+      "sha256": "7457675c19186491cae40957f07d2426f0fe9633379fa0198b78fc0db753702b"
+    },
+    {
+      "file": "THSarabun Bold Italic.ttf",
+      "sha256": "8a8731b6bed21f1a0b6788162239d4390974e1ad379462235d55a6377e8b1689"
+    },
+    {
+      "file": "THSarabun Italic.ttf",
+      "sha256": "79ba913cdb90bac50e312875823e55322f7b80c5a5ab8a0e4d351ee215840004"
+    },
+    {
+      "file": "DIP&SIPA Font License Agreement.txt",
+      "sha256": "f7a2fc4da4010c59c03df9dc17a8e44ff4860916a9a82f1bde8c929887821a31"
+    },
+    {
+      "file": "THSarabun.ttf",
+      "sha256": "51a071f55fe0b21d05334bea94d6e13393edd23e4bf775fd6b1f829bece967f4"
+    }
+  ]
+}
